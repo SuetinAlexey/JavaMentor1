@@ -12,7 +12,7 @@
     <!--<parent>*</parent>-->
 
     <groupId>ru.suetin</groupId>
-    <artifactId>JavaMentor</artifactId>
+    <artifactId>JavaMentor1</artifactId>
     <version>${revision}</version>
 
     <packaging>pom</packaging>
