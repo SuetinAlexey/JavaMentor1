@@ -19,6 +19,7 @@
 
     <modules>
         <module>Constructor</module>
+        <module>GeometricFigures</module>
     </modules>
 
     <properties>
