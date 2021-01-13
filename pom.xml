@@ -20,6 +20,7 @@
     <modules>
         <module>Constructor</module>
         <module>GeometricFigures</module>
+        <module>Generics</module>
         <module>HW_3_GarbageCollector</module>
     </modules>
 
