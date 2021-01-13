@@ -1,8 +1,7 @@
 package pkghw;
 
 /**
- * Hello world!
- *
+ * Проект Generic.
  */
 public class App 
 {
