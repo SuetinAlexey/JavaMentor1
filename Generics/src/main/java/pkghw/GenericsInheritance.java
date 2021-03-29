@@ -10,11 +10,11 @@ public class GenericsInheritance {
 
     public static void main(String[] args){
         //
-        Cat cat = new Cat();
+        Animal cat = new Cat();
         //
         List<Cat> catlist = new ArrayList<>();
-
-        catlist.add(cat);
+        //List<Animal> animalList = catlist;
+        //catlist.add(cat);
 
 
 
