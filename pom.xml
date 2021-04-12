@@ -22,7 +22,6 @@
         <module>GeometricFigures</module>
         <module>Generics</module>
         <module>HW_3_GarbageCollector</module>
-	<module>PhilosophyJava</module>
     </modules>
 
     <properties>
